@@ -1,0 +1,1 @@
+const header=document.querySelector('.site-header');window.addEventListener('scroll',()=>{header.style.background=window.scrollY>20?'rgba(11,11,11,.94)':'rgba(11,11,11,.76)'});
