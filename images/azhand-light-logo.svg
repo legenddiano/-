@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1450 510" role="img" aria-labelledby="title desc">
   <title id="title">AZHAND Lighting Group</title>
-  <desc id="desc">لوگوی اژند لایت، AZHAND Lighting Group</desc>
-  <g fill="none" stroke="#718080" stroke-width="18" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M18 185 L310 18 L1180 205"/>
-  </g>
-  <text x="115" y="315" fill="#718080" font-family="Arial, Helvetica, sans-serif" font-size="132" font-weight="700" letter-spacing="-5">AZHAND</text>
-  <circle cx="805" cy="115" r="112" fill="#ff0505"/>
-  <path d="M708 142 L755 142 L790 177 L790 118 L825 118 L825 202 L790 202 L755 167 L755 202 L708 202 Z" fill="#ffffff"/>
-  <text x="14" y="405" fill="#718080" font-family="Arial, Helvetica, sans-serif" font-size="61" letter-spacing="20">Lighting Group</text>
+  <desc id="desc">لوگوی رسمی اژند لایت، AZHAND Lighting Group</desc>
+  <path d="M10 265 L365 10 L1440 270" fill="none" stroke="#718080" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="142" y="382" fill="#718080" font-family="Arial, Helvetica, sans-serif" font-size="172" font-weight="700" letter-spacing="-7">AZHAND</text>
+  <circle cx="915" cy="118" r="116" fill="#ff0505"/>
+  <path d="M760 220V154h43l32 32v-32h42v92h-42v-34l-32-32v66z" fill="#fff"/>
+  <text x="10" y="500" fill="#718080" font-family="Arial, Helvetica, sans-serif" font-size="70" letter-spacing="22">Lighting Group</text>
 </svg>
