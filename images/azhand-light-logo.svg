@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="351.34907" height="127.98931" viewBox="0 0 351.34907 127.98931">
-  <g transform="translate(-121.96,-337.8)">
-    <path d="M130 425 L175 395 L345 425" fill="none" stroke="#666" stroke-width="4"/>
-    <text x="130" y="452" font-family="Arial, sans-serif" font-size="20" letter-spacing="9" fill="#111">Lighting Grup</text>
+<svg version="1.1" width="4.8798385in" height="1.7776271in" viewBox="0 0 351.34907 127.98931" xmlns="http://www.w3.org/2000/svg">
+  <g transform="translate(-94.423518,-217.7694)">
+    <path d="m 95.8396,282.4603 90.1342,-61.9518 259.2366,59.8156" fill="none" stroke="#666666" stroke-width="5"/>
+    <text x="97.912903" y="335.4364" font-family="Arial" font-size="24px" fill="#1b1918">L</text>
+    <text x="122.385" y="335.67169" font-family="Arial" font-size="24px" fill="#1b1918">i</text>
+    <text x="146.18781" y="340.47641" font-family="Arial" font-size="24px" fill="#1b1918">g</text>
+    <text x="172.3535" y="335.20111" font-family="Arial" font-size="24px" fill="#1b1918">h</text>
+    <text x="198.14661" y="336.54559" font-family="Arial" font-size="24px" fill="#1b1918">t</text>
+    <text x="218.9052" y="336.14191" font-family="Arial" font-size="24px" fill="#1b1918">i</text>
+    <text x="235.5775" y="335.4364" font-family="Arial" font-size="24px" fill="#1b1918">n</text>
+    <text x="261.27979" y="340.7117" font-family="Arial" font-size="24px" fill="#1b1918">g</text>
+    <text x="307.21121" y="335.7244" font-family="Arial" font-size="24px" fill="#1b1918">G</text>
+    <text x="338.2713" y="335.1492" font-family="Arial" font-size="24px" fill="#1b1918">r</text>
+    <text x="384.82529" y="335.98318" font-family="Arial" font-size="24px" fill="#1b1918">u</text>
+    <text x="410.38409" y="340.77829" font-family="Arial" font-size="24px" fill="#1b1918">p</text>
   </g>
 </svg>
