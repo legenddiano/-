@@ -1,0 +1,19 @@
+{
+  "name": "اژند لایت | Azhand Lighting Group",
+  "short_name": "اژند لایت",
+  "description": "تولید و طراحی لوستر و روشنایی مدرن در تهران و چهاردانگه",
+  "lang": "fa-IR",
+  "dir": "rtl",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#0b0b0b",
+  "background_color": "#0b0b0b",
+  "icons": [
+    {
+      "src": "/images/azhand-light-logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
