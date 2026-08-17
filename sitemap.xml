@@ -1,9 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
   <url>
     <loc>https://azhandlighit.ir/</loc>
-    <lastmod>2026-08-16</lastmod>
+    <lastmod>2026-08-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
+    <video:video>
+      <video:thumbnail_loc>https://azhandlighit.ir/images/azhand-light-logo.svg</video:thumbnail_loc>
+      <video:title>ویدئوی معرفی اژند لایت</video:title>
+      <video:description>ویدئوی معرفی مجموعه اژند لایت و محصولات روشنایی مدرن در تهران و چهاردانگه.</video:description>
+      <video:content_loc>https://stream.vidhosting.in/videos/ceb00f51.webm</video:content_loc>
+      <video:family_friendly>yes</video:family_friendly>
+    </video:video>
   </url>
 </urlset>
