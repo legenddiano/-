@@ -13,4 +13,8 @@
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
   </url>
+  <url><loc>https://azhandlighit.ir/projects/</loc><lastmod>2026-08-17</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://azhandlighit.ir/magazine/</loc><lastmod>2026-08-17</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://azhandlighit.ir/magazine/page/2/</loc><lastmod>2026-08-17</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://azhandlighit.ir/magazine/page/3/</loc><lastmod>2026-08-17</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
 </urlset>
